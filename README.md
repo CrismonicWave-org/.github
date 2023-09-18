@@ -1,10 +1,9 @@
 # Main github pages for CrismonicWave
 
 ```mermaid
-graph TD
+flowchart TB
+   user --> dashboard
 
-A1 --- B1
-
-click dashboard "./README.md#main-github-pages-crismonicwave" _parent
+   click dashboard "./dashboard/README.md" _parent
 ```
 ## 
