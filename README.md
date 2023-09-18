@@ -4,6 +4,6 @@
 flowchart TB
    user --> dashboard
 
-   click dashboard "./dashboard/README.md" _parent
+   click dashboard "./security.md" _parent
 ```
 ## 
