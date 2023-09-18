@@ -4,6 +4,6 @@
 flowchart TB
    user --> dashboard
 
-   click dashboard "https://gmail.com" _parent
+   click dashboard "./SECURITY.md" _parent
 ```
 ## 
